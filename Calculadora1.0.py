@@ -29,5 +29,5 @@ while True:
     # Erro caso o usuário digite a opção errada.
     # Mostra o erro e reinicia o loop.
     else:
-        print('[ERRO] Opção inválida, tente novamente.')
+        print('[ERRO!] Opção inválida, tente novamente.')
         print()
